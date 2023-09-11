@@ -158,3 +158,32 @@ div.competition div.text h3{
 #piechart{
     flex: 1 1 300px;
 }
+
+section.taiwan h3{
+    font-size: 2rem;
+    color: rgb(12, 122, 92);
+}
+
+section.taiwan ul{
+    margin-left: 2rem;
+}
+
+section.china h3{
+    font-size: 2rem;
+    color: rgb(12, 122, 92);
+}
+
+.china th{
+    background-color: rgb(86, 224, 192);
+    color: white;
+}
+
+.china table,tr,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 2px 4px;
+}
+
+.china table {
+    min-width: 1000px;
+  }
